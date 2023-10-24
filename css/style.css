@@ -1,0 +1,67 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* COMMON  */
+.container{
+    max-width: 1200px;
+}
+
+.margin{
+    margin: 0 auto;
+
+}
+
+.row{
+    width: 100%;
+    display: flex;
+}
+
+.col-40{
+    width: 40%;
+}
+
+.col-20{
+    width: 20%;
+}
+
+.height-30{
+    height: 30px;
+}
+
+.logo{
+    
+    height: 100%;
+}
+
+.border{
+    border: 2px dashed black;
+}
+
+.align-end{
+    text-align: end;
+
+}
+
+
+/* COLORS  */
+.bg-blue{
+    background-color: blue;
+}
+
+.white{
+    color: white;
+}
+
+/* HEADER  */
+header{
+    background-color: orangered;
+    height: 75px;
+    padding: 25px;
+}
+
+
+
+/* MAIN  */
