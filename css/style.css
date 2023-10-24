@@ -21,6 +21,10 @@
     display: flex;
 }
 
+.col-100{
+    width: 100%;
+}
+
 .col-40{
     width: 40%;
 }
@@ -91,3 +95,17 @@ header{
 }
 
 /* MAIN  */
+
+
+/* FOOTER  */
+footer{
+    background-color: black;
+    height: 75px;
+    padding: 25px;
+    margin-top: 100px;
+}
+
+.flex-space{
+    display: flex;
+    justify-content: space-between;
+}
